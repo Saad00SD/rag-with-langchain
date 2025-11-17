@@ -12,5 +12,4 @@ Python Programing Introduction
     -Cross-platform compatibility
     -Strong community support
 
-    Python is widely used in various domains, including web development (Django, Flask), data scicence (Pandas, NumPy), 
-    artificial intelligence (TensorFlow, PyTorch), and automation.
+    Python is widely used in various domains, including web development (Django, Flask), data scicence (Pandas, NumPy), artificial intelligence (TensorFlow, PyTorch), and automation.
